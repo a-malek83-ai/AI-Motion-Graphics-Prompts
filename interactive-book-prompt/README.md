@@ -4,6 +4,8 @@
 
 Arabic AI prompt that converts a school textbook into an interactive e-book, by A_Malek83_Ai
 
+الانستقرام: [@a_malek83_ai](https://www.instagram.com/a_malek83_ai/)
+
 الملف:
 
 [prompt-kitab-tafaaeli.pdf](prompt-kitab-tafaaeli.pdf)
