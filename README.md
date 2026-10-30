@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" alt="A_Malek83_Ai" width="100%"></p>
+
 <div dir="rtl" align="right">
 
 # برومتات | Prompts
